@@ -1,1 +1,1 @@
-# Roblox-Autorejoiner
+# Roblox-Auto-Rejoiner
