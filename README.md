@@ -55,3 +55,9 @@ The watcher runs in the background and checks every few seconds if `RobloxPlayer
 
 ## License
 This project is provided as-is for educational and personal use. Use responsibly and in accordance with Roblox's Terms of Service.
+
+# Permission and Usage Rights
+
+You are permitted to copy, modify, and use the entire codebase freely. The project may be incorporated into other projects, used as a learning resource, or redistributed in modified form.
+
+Attribution is not required. This project is provided as-is for personal and educational use, without warranty of any kind.
